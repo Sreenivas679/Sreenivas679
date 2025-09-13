@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Sreenivas</h1>
+<h1 align="center">Hi there 👋 I'm A.Sreenivas</h1>
 
 <p align="center">
 🎓 Engineering Student | 💻 Frontend Developer | 🤖 AI/ML Enthusiast  
