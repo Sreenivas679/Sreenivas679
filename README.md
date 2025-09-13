@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Sreenivas  
 
-<!--
-**Sreenivas679/Sreenivas679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m an Engineering Student passionate about **Front-end  Development** and **AI/ML**.  
+💻 I love building projects, solving problems, and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
+- **Backend**: Python (Flask/Django), Node.js  
+- **Databases**: MySQL, MongoDB  
+- **Other**: Git, GitHub Pages, REST APIs  
+
+---
+
+## 🌟 Projects
+- [Gift_app](https://github.com/Sreenivas679/Gift_app) – E-commerce frontend template hosted on GitHub Pages  
+- [Telemedicine-Kiosk](https://github.com/Sreenivas679/Telemedicine-Kiosk) – AI-powered telemedicine kiosk  
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: *[your email here]*  
+- 💼 LinkedIn: [Your LinkedIn](#)  
+- 🌐 Portfolio: [Your Portfolio](#)  
+
+⭐️ *Always learning, building, and creating cool stuff!*
